@@ -1,5 +1,5 @@
 # Desafio De Programação
-<p> wderrrr</p>
+
 Para o desafio de programação foi utilizado a IDE eclipse, a linguagem de programação utilizada foi Java e para os testes unitários foi utilizado o Junit.
 
 As questões do desafio foram feitas em um único projeto, separadas por pacotes com os respetivos nomes: questao1, questao2 e questao3.
@@ -22,18 +22,20 @@ O resultado desse primeira atividade foi feito manualmente e testado com a Junit
 Utilizando Junit <br><br>
 ![Tela da questão 1 Junit](https://github.com/GlauberFerreiraAngelo/DesafioDaProgramacao/blob/main/tela%20do%20Junit%20escada.png)
  
-<br> 
-b = escada.criandoUmaEscada("er");
+<br>
+Foi feito 5 testes, são esses a baixo, com Junit onde 4 desses resultados devem da false para letras, letras e número, vazio e caracter especiais e o quinto teste da true para números. 
+
+b = escada.criandoUmaEscada("er"); <br>
 Assert.assertFalse(b);
 		
-b = escada.criandoUmaEscada("34r6t");
+b = escada.criandoUmaEscada("34r6t");<br>
 Assert.assertFalse(b);
 		
-b = escada.criandoUmaEscada("");
+b = escada.criandoUmaEscada("");<br>
 Assert.assertFalse(b);
 		
-b = escada.criandoUmaEscada("#*");
+b = escada.criandoUmaEscada("#*");<br>
 Assert.assertFalse(b);
 
-b = escada.criandoUmaEscada("6");
+b = escada.criandoUmaEscada("6");<br>
 Assert.assertTrue(b);
