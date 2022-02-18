@@ -26,14 +26,14 @@ Utilizando Junit <br><br>
 b = escada.criandoUmaEscada("er");
 Assert.assertFalse(b);
 		
-		b = escada.criandoUmaEscada("6");
-		Assert.assertTrue(b);
+b = escada.criandoUmaEscada("34r6t");
+Assert.assertFalse(b);
 		
-		b = escada.criandoUmaEscada("34r6t");
-		Assert.assertFalse(b);
+b = escada.criandoUmaEscada("");
+Assert.assertFalse(b);
 		
-		b = escada.criandoUmaEscada("");
-		Assert.assertFalse(b);
-		
-		b = escada.criandoUmaEscada("#*");
-		Assert.assertFalse(b);
+b = escada.criandoUmaEscada("#*");
+Assert.assertFalse(b);
+
+b = escada.criandoUmaEscada("6");
+Assert.assertTrue(b);
