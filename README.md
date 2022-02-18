@@ -134,8 +134,13 @@ Utilizando Junit <br><br>
 ![Tela da questão 3 Junit](https://github.com/GlauberFerreiraAngelo/DesafioDaProgramacao/blob/main/img/tela%20do%20Junit%20anagrama.png)<br>
 
 
+Para o teste de validação foram feitos 3 testes: 
 
-
+A primeira verificação foi feita para saber se palavra seria maior ou igual a zero
 Assert.assertTrue(questao3.anagrama("ovo") >= 0);<br>
+
+Na segunda verificação foi feito para saber se recebendo um texto sem caracter se ele seria positivo
 Assert.assertTrue(questao3.anagrama("") >= 0);<br>
+
+Na terceira verificou se palavra dava um valor negativo.
 Assert.assertFalse(questao3.anagrama("ifailuhkqq") < 0);
