@@ -124,14 +124,14 @@ Na explicação do exemplo 1 fala que: A lista de todos os anagramas pares são:
 
 Então os anagramas pares são: [o, o], [ov, vo] e o resultado da saída seria 3 por conta do número da posição [[0, 2], [0, 1],[1, 2]] o resultado bate com a saída mas no exemplo 2 o número de anagramas pares são:[i, i], [q, q] e [ifa, fai] e as posições são [[0, 3]],[[8, 9]] e [[0, 1, 2], [1, 2, 3]] da entende que são 4 mas a saída é 3 ai não sei se foi erro de digitação ou é uma pegadinha pra ver como resolvia o problema.
 
-exemplo 1:
-![Tela da questão 2](https://github.com/GlauberFerreiraAngelo/DesafioDaProgramacao/blob/main/tela%20da%20atividade%20senha.png)<br>
+exemplo 1:<br><br>
+![Tela da questão 3]()<br>
 
-exemplo 2:
-![Tela da questão 2 Junit](https://github.com/GlauberFerreiraAngelo/DesafioDaProgramacao/blob/main/tela%20da%20atividade%20senha.png)<br>
+exemplo 2:<br><br>
+![Tela da questão 3 ]()<br>
 
 Utilizando Junit <br><br>
-![Tela da questão 2 Junit](https://github.com/GlauberFerreiraAngelo/DesafioDaProgramacao/blob/main/tela%20da%20atividade%20senha.png)<br>
+![Tela da questão 3 Junit]()<br>
 
 
 
