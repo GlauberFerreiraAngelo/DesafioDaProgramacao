@@ -145,9 +145,14 @@ Assert.assertTrue(questao3.anagrama("") >= 0);<br>
 Na terceira verificou se palavra dava um valor negativo. <br>
 Assert.assertFalse(questao3.anagrama("ifailuhkqq") < 0);
 
-# Executar um programa no Eclipse
+# Executar o programa no Eclipse
 
-Executando a Classe Principal (aquela que possui o método main()).
+importe o projeto para o eclipse;
+
+Executando a Classe Principal (aquela que possui o método main() ela se encotra dentro do pacote da questão que será avaliada).
 
 Clique com o botão direito na Classe que possui o programa pricipal. Selecione a opção:
 Run As >> java Application 
+
+para o teste unitario
+Run As >> JUnit Test
