@@ -69,25 +69,29 @@ Agora uma tela com apenas um único carácter seguido os requisitos de validaç�
 Utilizando Junit <br><br>
 ![Tela da questão 1 Junit](https://github.com/GlauberFerreiraAngelo/DesafioDaProgramacao/blob/main/tela%20do%20Junit%20senha.png)
 
-b = cadastro.verificarSenha("aaaaaa");
+Como vemos na imagem a cima tem uma variação de teste para da errado como vemos no codigo a baixo. <br>
+
+b = cadastro.verificarSenha("aaaaaa");<br>
 Assert.assertTrue(b);
 		
-b = cadastro.verificarSenha("AAAAAAA");
+b = cadastro.verificarSenha("AAAAAAA");<br>
 Assert.assertTrue(b);
 		
-b = cadastro.verificarSenha("333333");
+b = cadastro.verificarSenha("333333");<br>
 Assert.assertTrue(b);
 	
-b = cadastro.verificarSenha("##***)");
+b = cadastro.verificarSenha("##***)");<br>
 Assert.assertTrue(b);
 		
-b = cadastro.verificarSenha("");
+b = cadastro.verificarSenha("");<br>
 Assert.assertTrue(b);
 		
-b = cadastro.verificarSenha("a&b");
+b = cadastro.verificarSenha("a&b");<br>
 Assert.assertTrue(b);
+
+Apenas esse teste abaixo da positivo
 		
-b = cadastro.verificarSenha("Vf23)e");
+b = cadastro.verificarSenha("Vf23)e");<br>
 Assert.assertFalse(b);	
 
-
+O resultado false significa que não existe critérios que não foram invalidados.  
