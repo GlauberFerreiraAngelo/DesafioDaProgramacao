@@ -39,3 +39,12 @@ Assert.assertFalse(b);
 
 b = escada.criandoUmaEscada("6");<br>
 Assert.assertTrue(b);
+
+## Questão 2
+
+
+
+
+
+
+
