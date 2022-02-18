@@ -17,5 +17,7 @@ Saída: <br>
 ![Resultado da saida do programa](https://github.com/GlauberFerreiraAngelo/DesafioDaProgramacao/blob/main/escada.png)
 
 O resultado desse primeira atividade foi feito manualmente e testado com a Junit.
+![Tela da questão 1](https://github.com/GlauberFerreiraAngelo/DesafioDaProgramacao/blob/main/escada.png)
 
+Utilizando Junit
 
