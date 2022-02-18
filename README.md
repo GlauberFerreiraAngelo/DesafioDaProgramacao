@@ -1,6 +1,6 @@
 # Desafio De Programação
 
-Para o desafio de programação foi utilizado a IDE eclipse, a linguagem de programação utilizada foi Java e para os testes unitários foi utilizado o Junit.
+<p>Para o desafio de programação foi utilizado a IDE eclipse, a linguagem de programação utilizada foi Java e para os testes unitários foi utilizado o Junit.<p>
 
 As questões do desafio foram feitas em um único projeto, separadas por pacotes com os respetivos nomes: questao1, questao2 e questao3.
 
@@ -22,7 +22,7 @@ O resultado desse primeira atividade foi feito manualmente e testado com a Junit
 Utilizando Junit <br><br>
 ![Tela da questão 1 Junit](https://github.com/GlauberFerreiraAngelo/DesafioDaProgramacao/blob/main/tela%20do%20Junit%20escada.png)
  
- 
+<br> 
 b = escada.criandoUmaEscada("er");
 Assert.assertFalse(b);
 		
