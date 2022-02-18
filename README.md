@@ -95,3 +95,30 @@ b = cadastro.verificarSenha("Vf23)e");<br>
 Assert.assertFalse(b);	
 
 O resultado false significa que não existe critérios que não foram invalidados.  
+
+## Questão 3
+
+Duas palavras podem ser consideradas anagramas de si mesmas se as letras de uma palavra podem ser realocadas para formar a outra palavra. Dada uma string qualquer, desenvolva um
+algoritmo que encontre o número de pares de substrings que são anagramas.
+
+Exemplo:
+
+Exemplo 1)
+
+Entrada:
+ovo
+
+Saída:
+3
+
+Exemplo 2)
+
+Entrada:
+ifailuhkqq
+
+Saída:
+3
+
+
+
+
