@@ -23,7 +23,7 @@ Utilizando Junit <br><br>
 ![Tela da questão 1 Junit](https://github.com/GlauberFerreiraAngelo/DesafioDaProgramacao/blob/main/tela%20do%20Junit%20escada.png)
  
 <br>
-Foi feito 5 testes, são esses a baixo, com Junit onde 4 desses resultados devem da false para letras, letras e número, vazio e caracter especiais e o quinto teste da true para números. 
+Foi feito 5 testes, são esses a baixo, com Junit onde 4 desses resultados devem da false para letras, letras e número, vazio e caracter especiais para validar o código. O quinto teste o resultado dele tem que ser true para números para também ser valido o resultado. <br>
 
 b = escada.criandoUmaEscada("er"); <br>
 Assert.assertFalse(b);
