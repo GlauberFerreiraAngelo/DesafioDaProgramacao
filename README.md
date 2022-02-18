@@ -155,6 +155,6 @@ Clique com o botão direito na Classe que possui o programa pricipal. Selecione 
 Run As >> java Application <br><br>
 ![Java application](https://github.com/GlauberFerreiraAngelo/DesafioDaProgramacao/blob/main/img/JavaApplication.png)<br>
 
-para o teste unitario <br>
+Clique com o botão direito na Classe que possui o programa JUnit Test. Selecione a opção: <br>
 Run As >> JUnit Test  <br><br>
 ![JUnit Test](https://github.com/GlauberFerreiraAngelo/DesafioDaProgramacao/blob/main/img/JUnitTest.png)<br>
