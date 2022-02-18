@@ -60,10 +60,11 @@ Ya3
 Saída:
 3
 
-O resultado dando o valor correto vemos a baixo:
-![Tela da questão 2 Junit]()
+O resultado dando o valor correto vemos a baixo:<br><br>
+![Tela da questão 2 Junit](https://github.com/GlauberFerreiraAngelo/DesafioDaProgramacao/blob/main/tela%20da%20atividade%20senha.png)<br>
 
-
+Agora uma tela com apenas um único carácter seguido os requisitos de validação e vemos as validações que faltam para a senha ser válida.<br><br>
+![Tela da questão 2 Junit]()<br>
 
 b = cadastro.verificarSenha("aaaaaa");
 Assert.assertTrue(b);
