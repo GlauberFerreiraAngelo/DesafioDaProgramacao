@@ -60,27 +60,30 @@ Ya3
 Saída:
 3
 
+O resultado dando o valor correto vemos a baixo:
+![Tela da questão 2 Junit]()
+
 
 
 b = cadastro.verificarSenha("aaaaaa");
-		Assert.assertTrue(b);
+Assert.assertTrue(b);
 		
-		b = cadastro.verificarSenha("AAAAAAA");
-		Assert.assertTrue(b);
+b = cadastro.verificarSenha("AAAAAAA");
+Assert.assertTrue(b);
 		
-		b = cadastro.verificarSenha("333333");
-		Assert.assertTrue(b);
+b = cadastro.verificarSenha("333333");
+Assert.assertTrue(b);
+	
+b = cadastro.verificarSenha("##***)");
+Assert.assertTrue(b);
 		
-		b = cadastro.verificarSenha("##***)");
-		Assert.assertTrue(b);
+b = cadastro.verificarSenha("");
+Assert.assertTrue(b);
 		
-		b = cadastro.verificarSenha("");
-		Assert.assertTrue(b);
+b = cadastro.verificarSenha("a&b");
+Assert.assertTrue(b);
 		
-		b = cadastro.verificarSenha("a&b");
-		Assert.assertTrue(b);
-		
-		b = cadastro.verificarSenha("Vf23)e");
-		Assert.assertFalse(b);	
+b = cadastro.verificarSenha("Vf23)e");
+Assert.assertFalse(b);	
 
 
