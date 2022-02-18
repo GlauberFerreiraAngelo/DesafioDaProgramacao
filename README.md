@@ -149,7 +149,8 @@ Assert.assertFalse(questao3.anagrama("ifailuhkqq") < 0);
 
 importe o projeto para o eclipse;
 
-Executando a Classe Principal (aquela que possui o método main() ela se encotra dentro do pacote da questão que será avaliada).
+Executando a Classe Principal (aquela que possui o método main() ela se encotra dentro do pacote da questão que será avaliada).<br><br>
+![main](https://github.com/GlauberFerreiraAngelo/DesafioDaProgramacao/blob/main/img/main.png)<br>
 
 Clique com o botão direito na Classe que possui o programa pricipal. Selecione a opção:<br>
 Run As >> java Application <br><br>
