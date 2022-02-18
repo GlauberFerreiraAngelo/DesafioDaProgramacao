@@ -66,6 +66,9 @@ O resultado dando o valor correto vemos a baixo:<br><br>
 Agora uma tela com apenas um único carácter seguido os requisitos de validação e vemos as validações que faltam para a senha ser válida.<br><br>
 ![Tela da questão 2 Junit](https://github.com/GlauberFerreiraAngelo/DesafioDaProgramacao/blob/main/tela%20atividade%20senha%20resultados.png)<br>
 
+Utilizando Junit <br><br>
+![Tela da questão 1 Junit]()
+
 b = cadastro.verificarSenha("aaaaaa");
 Assert.assertTrue(b);
 		
