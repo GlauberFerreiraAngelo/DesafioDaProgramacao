@@ -128,7 +128,7 @@ exemplo 1:<br><br>
 ![Tela da questão 3](https://github.com/GlauberFerreiraAngelo/DesafioDaProgramacao/blob/main/img/tela%20da%20atividade%20anagrama%20ovo.png)<br>
 
 exemplo 2:<br><br>
-![Tela da questão 3 ]()<br>
+![Tela da questão 3 ](https://github.com/GlauberFerreiraAngelo/DesafioDaProgramacao/blob/main/img/tela%20da%20atividade%20anagrama%20ifailuhkqq.png)<br>
 
 Utilizando Junit <br><br>
 ![Tela da questão 3 Junit]()<br>
