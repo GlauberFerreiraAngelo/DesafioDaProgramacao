@@ -136,11 +136,11 @@ Utilizando Junit <br><br>
 
 Para o teste de validação foram feitos 3 testes: 
 
-A primeira verificação foi feita para saber se palavra seria maior ou igual a zero
+A primeira verificação foi feita para saber se palavra seria maior ou igual a zero <br>
 Assert.assertTrue(questao3.anagrama("ovo") >= 0);<br>
 
-Na segunda verificação foi feito para saber se recebendo um texto sem caracter se ele seria positivo
+Na segunda verificação foi feito para saber se recebendo um texto sem caracter se ele seria positivo <br>
 Assert.assertTrue(questao3.anagrama("") >= 0);<br>
 
-Na terceira verificou se palavra dava um valor negativo.
+Na terceira verificou se palavra dava um valor negativo. <br>
 Assert.assertFalse(questao3.anagrama("ifailuhkqq") < 0);
