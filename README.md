@@ -21,4 +21,19 @@ O resultado desse primeira atividade foi feito manualmente e testado com a Junit
 
 Utilizando Junit <br><br>
 ![Tela da questão 1 Junit](https://github.com/GlauberFerreiraAngelo/DesafioDaProgramacao/blob/main/tela%20do%20Junit%20escada.png)
-
+ 
+ 
+    b = escada.criandoUmaEscada("er");
+		Assert.assertFalse(b);
+		
+		b = escada.criandoUmaEscada("6");
+		Assert.assertTrue(b);
+		
+		b = escada.criandoUmaEscada("34r6t");
+		Assert.assertFalse(b);
+		
+		b = escada.criandoUmaEscada("");
+		Assert.assertFalse(b);
+		
+		b = escada.criandoUmaEscada("#*");
+		Assert.assertFalse(b);
