@@ -144,3 +144,10 @@ Assert.assertTrue(questao3.anagrama("") >= 0);<br>
 
 Na terceira verificou se palavra dava um valor negativo. <br>
 Assert.assertFalse(questao3.anagrama("ifailuhkqq") < 0);
+
+# Executar um programa no Eclipse
+
+Executando a Classe Principal (aquela que possui o método main()).
+
+Clique com o botão direito na Classe que possui o programa pricipal. Selecione a opção:
+Run As >> java Application 
