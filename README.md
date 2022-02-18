@@ -13,7 +13,7 @@ Exemplo:
 Entrada:
 n = 6
 
-Saída:
+Saída: <br>
 ![Resultado da saida do programa](https://github.com/GlauberFerreiraAngelo/DesafioDaProgramacao/blob/main/escada.png)
 
 
