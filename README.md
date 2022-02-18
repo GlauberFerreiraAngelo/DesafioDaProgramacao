@@ -151,10 +151,10 @@ importe o projeto para o eclipse;
 
 Executando a Classe Principal (aquela que possui o método main() ela se encotra dentro do pacote da questão que será avaliada).
 
-Clique com o botão direito na Classe que possui o programa pricipal. Selecione a opção:
-Run As >> java Application <br>
+Clique com o botão direito na Classe que possui o programa pricipal. Selecione a opção:<br>
+Run As >> java Application <br><br>
 ![Java application](https://github.com/GlauberFerreiraAngelo/DesafioDaProgramacao/blob/main/img/JavaApplication.png)<br>
 
-para o teste unitario
-Run As >> JUnit Test  <br>
+para o teste unitario <br>
+Run As >> JUnit Test  <br><br>
 ![JUnit Test](https://github.com/GlauberFerreiraAngelo/DesafioDaProgramacao/blob/main/img/JUnitTest.png)<br>
