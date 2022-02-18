@@ -67,7 +67,7 @@ Agora uma tela com apenas um único carácter seguido os requisitos de validaç�
 ![Tela da questão 2 Junit](https://github.com/GlauberFerreiraAngelo/DesafioDaProgramacao/blob/main/tela%20atividade%20senha%20resultados.png)<br>
 
 Utilizando Junit <br><br>
-![Tela da questão 1 Junit]()
+![Tela da questão 1 Junit](https://github.com/GlauberFerreiraAngelo/DesafioDaProgramacao/blob/main/tela%20do%20Junit%20senha.png)
 
 b = cadastro.verificarSenha("aaaaaa");
 Assert.assertTrue(b);
