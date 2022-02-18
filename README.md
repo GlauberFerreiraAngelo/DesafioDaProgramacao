@@ -14,6 +14,6 @@ Entrada:
 n = 6
 
 Saída:
-![Resultado da saida do programa](https://myoctocat.com/assets/images/base-octocat.svg)
+![Resultado da saida do programa](https://github.com/GlauberFerreiraAngelo/DesafioDaProgramacao/blob/main/escada.png)
 
 
