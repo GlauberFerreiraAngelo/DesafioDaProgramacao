@@ -14,13 +14,13 @@ Entrada:
 n = 6
 
 Saída: <br>
-![Resultado da saida do programa](https://github.com/GlauberFerreiraAngelo/DesafioDaProgramacao/blob/main/escada.png)
+![Resultado da saida do programa](https://github.com/GlauberFerreiraAngelo/DesafioDaProgramacao/blob/main/img/escada.png)
 
 O resultado desse primeira atividade foi feito manualmente e testado com a Junit. <br><br>
-![Tela da questão 1](https://github.com/GlauberFerreiraAngelo/DesafioDaProgramacao/blob/main/tela%20da%20atividade%20escada.png)
+![Tela da questão 1](https://github.com/GlauberFerreiraAngelo/DesafioDaProgramacao/blob/main/img/tela%20da%20atividade%20escada.png)
 
 Utilizando Junit <br><br>
-![Tela da questão 1 Junit](https://github.com/GlauberFerreiraAngelo/DesafioDaProgramacao/blob/main/tela%20do%20Junit%20escada.png)
+![Tela da questão 1 Junit](https://github.com/GlauberFerreiraAngelo/DesafioDaProgramacao/blob/main/img/tela%20do%20Junit%20escada.png)
  
 <br>
 Foi feito 5 testes, são esses a baixo, com Junit onde 4 desses resultados devem da false para letras, letras e número, vazio e caracter especiais para validar o código. O quinto teste o resultado dele tem que ser true para números para também ser valido o resultado. <br><br>
@@ -61,13 +61,13 @@ Saída:
 3
 
 O resultado dando o valor correto vemos a baixo:<br><br>
-![Tela da questão 2](https://github.com/GlauberFerreiraAngelo/DesafioDaProgramacao/blob/main/tela%20da%20atividade%20senha.png)<br>
+![Tela da questão 2](https://github.com/GlauberFerreiraAngelo/DesafioDaProgramacao/blob/main/img/tela%20da%20atividade%20senha.png)<br>
 
 Agora uma tela com apenas um único carácter seguido os requisitos de validação e vemos as validações que faltam para a senha ser válida.<br><br>
-![Tela da questão 2](https://github.com/GlauberFerreiraAngelo/DesafioDaProgramacao/blob/main/tela%20atividade%20senha%20resultados.png)<br>
+![Tela da questão 2](https://github.com/GlauberFerreiraAngelo/DesafioDaProgramacao/blob/main/img/tela%20atividade%20senha%20resultados.png)<br>
 
 Utilizando Junit <br><br>
-![Tela da questão 2 Junit](https://github.com/GlauberFerreiraAngelo/DesafioDaProgramacao/blob/main/tela%20do%20Junit%20senha.png)
+![Tela da questão 2 Junit](https://github.com/GlauberFerreiraAngelo/DesafioDaProgramacao/blob/main/img/tela%20do%20Junit%20senha.png)
 
 Como vemos na imagem a cima tem uma variação de teste para da errado como vemos no codigo a baixo. <br>
 
