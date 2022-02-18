@@ -16,9 +16,9 @@ n = 6
 Saída: <br>
 ![Resultado da saida do programa](https://github.com/GlauberFerreiraAngelo/DesafioDaProgramacao/blob/main/escada.png)
 
-O resultado desse primeira atividade foi feito manualmente e testado com a Junit.
+O resultado desse primeira atividade foi feito manualmente e testado com a Junit. <br>
 ![Tela da questão 1](https://github.com/GlauberFerreiraAngelo/DesafioDaProgramacao/blob/main/tela%20da%20atividade%20escada.png)
 
-Utilizando Junit
+Utilizando Junit <br>
 ![Tela da questão 1 Junit](https://github.com/GlauberFerreiraAngelo/DesafioDaProgramacao/blob/main/tela%20do%20Junit%20escada.png)
 
